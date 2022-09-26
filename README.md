@@ -1,2 +1,2 @@
 # Profil
-Page of présentation of our project.
+Page of presentation of our project.
